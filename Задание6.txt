@@ -1,0 +1,5 @@
+2 Откройте терминал (Пуск – Системные - Терминал Fly) и введите следующее, например:
+cd /home/user-10/Desktop/git_ PC22_10
+git init
+Командная строка должна ответить подобным образом:
+Initialized empty Git repository in /home/user/Desktop/git_PC2_12/.git/
